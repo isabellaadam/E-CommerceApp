@@ -10,8 +10,8 @@ const Header = () => {
                         <nav class="nav">
                             <div className="font-monospace"><div class="nav-space"><a>ALL TYPES <i class="fas fa-chevron-down"></i></a></div> </div>
                             <div class="nav-item"><a href="#">Popular Products</a> </div>
-                            <div class="nav-item"><a href="#"> Low Price High</a> </div>
-                            <div class="nav-item"><a href="#"><div class="nav-space2"><a>High Price</a> </div></a> </div>
+                            <div class="nav-item"><a> Low Price High</a> </div>
+                            <div class="nav-item"><a><div class="nav-space2"><a>High Price</a> </div></a> </div>
                             <div className="font-monospace"><div class="nav-end"><a> PRICE <i class="fas fa-chevron-down"></i></a></div></div>
                         </nav>
 
